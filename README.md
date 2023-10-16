@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ineshe.
 - 👀 I’m interested in web development and crossword puzzles.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on frontend web development.
+- 🌱 I’m currently learning shopware.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: www.linkedin.com/in/ines-heilmann-5350891a8
 
 <!---
