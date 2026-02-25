@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ineshe.
-- 👀 I’m interested in web development and crossword puzzles.
-- 🌱 I’m currently learning shopware.
+- 👀 I’m interested in web development and gardening.
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: www.linkedin.com/in/ines-heilmann-5350891a8
 
